@@ -1,4 +1,4 @@
-# docker-pyspark-environment ✅
+# docker-pyspark-environment
 
 **Entorno Docker para ejecutar Apache Spark (master/worker) y Jupyter notebooks con PySpark.**
 
